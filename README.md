@@ -1,2 +1,14 @@
 # zcwwin-hub
-HTML page archive and documentation
+
+页面内容归档仓库
+
+这里保存静态 HTML 文件，便于后续查找、访问和核对。
+
+## 文件管理
+
+- HTML 文件由发布流程生成
+- README 用于保留基础说明
+
+## 发布说明
+
+每次发布会写入对应页面文件，具体路径由发布任务决定。
